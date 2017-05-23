@@ -72,4 +72,5 @@ rcl.setAdapter(new TestAdapter(this, headerView, footerView, strings));
 ```
 
 ### 注意(Notice)
-如果在inflate header、footer时，以recyclerView为parent时，需要在recyclerView设置layoutManager之后调用，否则报错，报错提示recyclerView没有layoutManager</br>
+1.如果在inflate header、footer时，以recyclerView为parent时，需要在recyclerView设置layoutManager之后调用，否则报错，报错提示recyclerView没有layoutManager</br>
+2.目前仅支持LinearLayoutManager和GridLayoutManager</br>
