@@ -1,4 +1,4 @@
-package pers.zinclee123.recyclerbaseadpter;
+package pers.zinclee123.recyclerbaseadapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
