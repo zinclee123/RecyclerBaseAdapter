@@ -1,4 +1,4 @@
-# RecyclerBaseAdapter
+# RecyclerBaseAdapter-Android
 继承自RecyclerView.Adapter,可简单添加header和footer
 
 ## 示例(Demo)
