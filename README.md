@@ -19,7 +19,7 @@ allprojects {
 在你需要使用该控件的module的build.gradle中加入依赖<br/>
 ```
 dependencies {
-  compile 'com.github.zinclee123:RecyclerBaseAdapter-Android:v0.1'
+  compile 'com.github.zinclee123:RecyclerBaseAdapter-Android:v0.2'
 }
 ```
 ### Step 3.
